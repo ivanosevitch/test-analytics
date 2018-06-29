@@ -1,7 +1,6 @@
 // @flow
 import React from 'react';
 import ReactGA from 'react-ga';
-import 'autotrack';
 import { Provider } from 'react-redux';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Routes from './routes';
